@@ -1,13 +1,13 @@
 package com.driver;
 
 public class RWOnly {
-    private String x;
+    private String Name;
 
-    public String getX() {
-        return x;
+    public String getName() {
+        return Name;
     }
 
-    public void setX(String x) {
-        this.x = x;
+    public void setName(String Name) {
+        this.Name = Name;
     }
 }
